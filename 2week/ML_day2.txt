@@ -1,0 +1,10 @@
+02_01 classification - kNN
+https://colab.research.google.com/drive/109sJ5TDy8KVNmZzla7bFeVYSnus8vKJS
+02_02 Linear_Regression
+https://colab.research.google.com/drive/1s7MRPVmwBarfrdkJwq4MW9WAzbqJppNK
+02_03 Logistic Regression
+https://colab.research.google.com/drive/19K8I9wbpImwahpYKD12Rv0ZqShb_vwz0
+02_04 DecisionTree Ensamble
+https://colab.research.google.com/drive/16VxG1hGTJ-dSGBDAh2mT2Ze1fEKIsode
+02_05 Clustering k-Means
+https://colab.research.google.com/drive/1qFEVyKt23pm2rgAD2Vo6gKNJ1wGlng8z
